@@ -1,0 +1,8 @@
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Common\bin\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Common.deps.json
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Common\bin\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Common.dll
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Common\bin\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Common.pdb
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Common\obj\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Common.csproj.CoreCompileInputs.cache
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Common\obj\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Common.AssemblyInfoInputs.cache
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Common\obj\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Common.AssemblyInfo.cs
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Common\obj\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Common.dll
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Common\obj\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Common.pdb

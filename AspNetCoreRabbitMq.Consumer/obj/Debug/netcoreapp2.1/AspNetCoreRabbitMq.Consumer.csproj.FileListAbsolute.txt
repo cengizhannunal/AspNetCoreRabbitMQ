@@ -1,0 +1,16 @@
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\bin\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Consumer.deps.json
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\bin\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Consumer.runtimeconfig.json
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\bin\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Consumer.runtimeconfig.dev.json
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\bin\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Consumer.dll
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\bin\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Consumer.pdb
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\obj\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Consumer.csprojAssemblyReference.cache
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\obj\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\obj\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Consumer.AssemblyInfoInputs.cache
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\obj\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Consumer.AssemblyInfo.cs
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\obj\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Consumer.dll
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\obj\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Consumer.pdb
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\bin\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Common.dll
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\bin\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Common.pdb
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\CengizhanUnal\source\repos\AspNetCoreRabbitMq\AspNetCoreRabbitMq.Consumer\obj\Debug\netcoreapp2.1\AspNetCoreRabbitMq.Consumer.csproj.CopyComplete
